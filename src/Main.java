@@ -4,5 +4,6 @@ public class Main {
         System.out.println("-Alex;");
         System.out.println("-Mike;");
         System.out.println("-Lusy;");
+        System.out.println("-Kawyn;");
     }
 }
